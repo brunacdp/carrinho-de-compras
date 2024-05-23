@@ -7,7 +7,7 @@
 
   :heavy_check_mark: Simulação de carrinho de compras de e-commerce de roupas, onde foram trabalhadas as ações de adicionar e remover itens do carrinho e cálculo dos preços.
   
-  :link: Acesse o projeto por aqui: https://carrinho-de-compras-brunacdp.vercel.app/
+  :link: [Acesse o projeto por aqui](brunacdp.github.io/animais-fantasticos/).
   <br>
   <br>
 
