@@ -3,7 +3,7 @@
 
 # :shopping_cart: Carrinho de compras
 
-  (Projeto da matéria Intermediary Front End, da pós graduação em Desenvolvimento Full Stack)
+  (Projeto da matéria Intermediary Front End)
 
   :heavy_check_mark: Simulação de carrinho de compras de e-commerce de roupas, onde foram trabalhadas as ações de adicionar e remover itens do carrinho e cálculo dos preços.
   
